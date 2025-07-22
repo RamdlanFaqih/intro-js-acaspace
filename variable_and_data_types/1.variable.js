@@ -8,6 +8,7 @@ console.log(name); // "Ramdlan"
 
 // redeclare (deklarasi ulang, diperbolehkan)
 var name = "Dlan";
+var test = "Tes";
 console.log(name); // "Dlan"
 
 // --- LET ---
